@@ -1,6 +1,7 @@
 ---
 title: 지킬(jekyll)로 깃허브에 블로그 만들기
 date: 2017-09-28 19:33:11
+thumbnail: /assets/Images/blog/jekyll/jekyll-logo.png
 tags:
   - 지킬
   - 마크다운

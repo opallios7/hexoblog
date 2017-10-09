@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 좋은친구의 생생한 기술 블로그
+title: 좋은친구(가치를 만드는 사람들)의 블로그
 subtitle: C#.NET Third party 개발(AutoCAD/Revit/Navisworks) NodeJS Vue
 description:
 email: opallios@gmail.com
 author: KH.LEE(opallios)
-language: Korean
+language: ko
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://thevaluecreator.co.kr
+url: http://opallios7.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: icarus
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
